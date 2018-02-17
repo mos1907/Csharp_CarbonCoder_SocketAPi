@@ -1,0 +1,10 @@
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\bin\Debug\CsharpSocket.exe.config
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\bin\Debug\CsharpSocket.exe
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\bin\Debug\CsharpSocket.pdb
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.csprojResolveAssemblyReference.cache
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.Form1.resources
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.Properties.Resources.resources
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.csproj.GenerateResource.Cache
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.csproj.CoreCompileInputs.cache
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.exe
+c:\users\broadcastitmd\source\repos\CsharpSocket\CsharpSocket\obj\Debug\CsharpSocket.pdb
